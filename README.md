@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumar</h1>
 <h3 align="center">A passionate Data/Business Analyst</h3>
-<img align="right" alt="Coding" width="600" src="https://i.gifer.com/74pZ.gif">
+<img align="right" alt="Analyst" width="400" src="https://i.gifer.com/74pZ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu7870&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu7870" /> </p>
 
